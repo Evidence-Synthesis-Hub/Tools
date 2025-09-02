@@ -3,8 +3,7 @@ title: "listsearchr"
 output: html_document
 date: "2025-07-03"
 ---
-Search term selection with litsearchr v1.0.0 for an example systematic review of the effects of fire on black-backed woodpeckers
-Eliza M. Grames and Emily A. Hennessy
+Search term selection with litsearchr v1.0.0 for an example systematic review of the effects of fire on black-backed woodpeckers made by Eliza M. Grames and Emily A. Hennessy
 
 The litsearchr package for R is designed to partially automate search term selection and writing search strategies for systematic reviews. This vignette demonstrates its utility through a mock, example review examining the effects of fire on black-backed woodpeckers by demonstrating how the package: (1) Identifies potential keywords through the naive search input, (2) Builds a keyword co-occurrence network to assist with building a more precise search strategy, (3) Uses a cutoff function to identify important changes in keyword importance, (4) Assists with grouping terms into concepts, and (5) Writes a Boolean search as a result of completion of the four previous steps.
 
