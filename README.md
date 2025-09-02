@@ -1,6 +1,6 @@
 # Tools
 
-# Evidence Synthesis Hub
+# Evidence Synthesis for agricultural practices hub
 
 Simple comparisons and guides for **evidence synthesis tools**
 
@@ -8,18 +8,20 @@ Simple comparisons and guides for **evidence synthesis tools**
 
 ## What this is for
 
-There are many tools available for doing evidence synthesis—tools for screening, de-duplicating, coding, visualising, and more. But choosing the right ones and understanding how they fit together can be confusing.
+There are many tools available for conducting evidence synthesis in agriculture—tools for screening studies, de-duplicating records, coding data, visualising results, and more. But choosing the right ones and understanding how they fit together can be challenging, especially when dealing with diverse agricultural practices and contexts.
 
-This repository helps by:
+## This repository helps by:
 
-* Showing how each tool works, with examples.
-* Explaining what each tool is good for—and where it struggles.
-* Providing shared code, templates, and training materials.
-* Helping you combine tools into a common format for easier integration.
+- Showing how each tool works, with examples from agricultural research and practice.
 
-We don’t build new tools here—we show how to **use** and **combine** existing ones.
+- Explaining what each tool is good for—and where it struggles—when applied to farming systems, crop and livestock studies, or rural livelihoods.
 
----
+- Providing shared code, templates, and training materials tailored to agricultural evidence synthesis.
+
+- Helping you combine tools into a common format for easier integration across systematic reviews, meta-analyses, and evidence maps in agriculture.
+
+We don’t build new tools here—we show how to use and combine existing ones in ways that make them relevant and practical for agricultural evidence synthesis.
+
 
 ## GitHub Pages
 
