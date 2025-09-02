@@ -44,8 +44,6 @@ Each tool has its own page :
 
 - **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/GPT-Screening.html)
 
-You can explore and contribute directly through those pages. New content appears after each update to this repository.
-
 ---
 
 ## How to use this repo (R workflow)
