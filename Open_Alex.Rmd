@@ -19,12 +19,6 @@ output:
     toc_float: true
     code_folding: show
     self_contained: true
-    includes:
-      after_body: hypothes.html  # This points to the custom HTML file
-comments:
-  utterances:
-    repo: ERAgriculture/AI
-knit: (function(input, ...) { rmarkdown::render(input, output_dir = "docs") })
 ---
 
 ```{r setup, include=FALSE}
@@ -39,7 +33,7 @@ knitr::opts_chunk$set(
 
 This vignette provides a reproducible example of how to harness OpenAlex for generating comprehensive search terms and evaluating the resulting references against established databases such as Web of Science (WoS) and Scopus. In this vignette, we will:
 
-1.  **Introduce OpenAlex**: Overview its features and explain its role in modern scholarly research.
+1.  **Introducing OpenAlex**: Overview its features and explain its role in modern scholarly research.
 
 2.  **Generate Search Strings**: Develop robust and reproducible search strategies tailored to your research needs.For this vingette, we will use the example of agroecology in Latin America and the Caribbean.
 
@@ -48,6 +42,7 @@ This vignette provides a reproducible example of how to harness OpenAlex for gen
 4.  **Testing Results Against WoS**
 
 # Introduction to OpenAlex
+
 
 OpenAlex is an open source platform that offers comprehensive, freely accessible information about research publications, authors, and institutions. Introduced in January 2022 by OurResearch, OpenAlex was developed as a successor to the now-discontinued Microsoft Academic Graph (MAG). Although it does not encompass every feature of MAG---for instance, patent data is not included---OpenAlex significantly expands on its predecessor's scope (Priem et al., 2022).
 
