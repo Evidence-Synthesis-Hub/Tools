@@ -1,6 +1,6 @@
 # Tools
 
-# Evidence Synthesis for agricultural practices hub
+# Evidence Synthesis for Agricultural Practices hub
 
 Simple comparisons and guides for **evidence synthesis tools**
 
@@ -43,8 +43,6 @@ Each tool has its own page :
 *Tagging*
 
 - **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/GPT-Screening.html)
-
-You can explore and contribute directly through those pages. New content appears after each update to this repository.
 
 ---
 
@@ -90,7 +88,7 @@ You can:
 
 ```
 Lolita M., Todd R., Natalia E.C, Andrea S., Sarah J. et al. (2025).  
-Evidence Synthesis Hub: A guide to using and comparing tools for systematic evidence synthesis.  
+Evidence Synthesis for Agricultural Practices Hub: A guide to using and comparing tools for systematic evidence synthesis in agriculture..  
 GitHub. https://github.com/<org>/evidence-synthesis-hub
 ```
 
