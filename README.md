@@ -79,7 +79,7 @@ You can:
 ## Contact
 
 * **Project leads:** Lolita, Todd, Natalia, Andrea, Sarah
-* **Institutions:** Allaince for Bioversity, WorldFish & CIRAD
+* **Institutions:** Alliance for Bioversity, WorldFish & CIRAD
 * **Email:** `m.lolita@cgiar.org`
 
 ---
