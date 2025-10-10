@@ -91,4 +91,6 @@ Lolita M., Todd R., Natalia E.C, Andrea S., Sarah J. et al. (2025).
 Evidence Synthesis for Agricultural Practices Hub: A guide to using and comparing tools for systematic evidence synthesis in agriculture..  
 GitHub. https://github.com/<org>/evidence-synthesis-hub
 ```
+![Alliance Logo Refresh-EN white](https://github.com/user-attachments/assets/fc3db356-e5c2-4936-ab46-390591983217)
 
+[Stacked Logo - Green - MFL.pdf](https://github.com/user-attachments/files/22848971/Stacked.Logo.-.Green.-.MFL.pdf)
