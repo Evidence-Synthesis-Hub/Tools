@@ -42,7 +42,7 @@ Each tool has its own page :
 
 *Tagging*
 
-- **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/Agricultural-Evidence-Synthesis-Hub/gpt-tagging.html)
+- **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/Agricultural-Evidence-Synthesis-Hub/gpt_tagging.html)
 
 ---
 
