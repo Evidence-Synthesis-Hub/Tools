@@ -87,7 +87,7 @@ You can:
 
 If you use this repository, please cite it as:
 ```
-Muller, L., Joshi, N., Steward, P., Rosenstock, T., Estrada Carmona, N., Sanchez, A., Jones, S., & Bellouin, D. (2025).  
+Muller, L., Rosenstock, T., Estrada Carmona, N., Sanchez, A., Jones, S., & Bellouin, D. (2025).  
 Agricultural Evidence Synthesis Hub (Version 1.0.0).  
 Alliance of Bioversity International and CIAT, CIRAD. https://doi.org/10.5281/zenodo.XXXXXXX
 
