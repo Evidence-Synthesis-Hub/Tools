@@ -1,0 +1,39 @@
+cff-version: 1.0.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Agricultural Evidence Synthesis Hub"
+authors:
+  - family-names: Muller
+    given-names: Lolita
+    orcid: https://orcid.org/0009-0002-8345-7219
+  - family-names: Joshi
+    given-names: Namita
+    orcid: https://orcid.org/0009-0006-1473-7718
+  - family-names: Steward
+    given-names: Peter
+    orcid: https://orcid.org/0000-0003-3985-4911
+  - family-names: Rosenstock
+    given-names: Todd
+    orcid: https://orcid.org/0000-0002-1958-9500
+  - family-names: Estrada Carmona
+    given-names: Natalia
+    orcid : https://orcid.org/0000-0003-4329-5470
+  - family-names: Sanchez
+    given-names: Andrea
+  - family-names: Jones
+    given-names: Sarah
+    orcid : https://orcid.org/0000-0002-9422-5563
+-   family-names : Bellouin
+    given-names : Damien
+
+date-released: 2025-10-14
+doi: 10.5281/zenodo.XXXXXXX  
+version: 0.1.0
+repository-code: https://github.com/Evidence-Synthesis-Hub/Agricultural-Evidence-Synthesis-Hub
+license: MIT
+keywords:
+  - agriculture
+  - agroecology
+  - meta-analysis
+  - evidence synthesis
+  - LLM
+  - AI
