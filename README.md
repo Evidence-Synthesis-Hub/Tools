@@ -92,16 +92,13 @@ Agricultural Evidence Synthesis Hub (Version 1.0.0).
 Alliance of Bioversity International and CIAT, CIRAD. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ```
-
 <p align="center">
-  <img width="1024" height="342" alt="logo-cirad-1024x342-1" src="https://github.com/user-attachments/assets/1035f70b-9159-4e1c-ad0a-c8135fecd898" />
-   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/fc3db356-e5c2-4936-ab46-390591983217" alt="Alliance Logo Refresh-EN white" width="280" />
+  <img src="https://github.com/user-attachments/assets/1035f70b-9159-4e1c-ad0a-c8135fecd898" alt="CIRAD logo" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ec6cf9fe-295c-476b-a98d-7449ac7c9f4a" alt="Stacked Logo - Green - MFL" width="360" />
-    &nbsp;&nbsp;&nbsp;
-
-
+  <img src="https://github.com/user-attachments/assets/fc3db356-e5c2-4936-ab46-390591983217" alt="Alliance logo" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ec6cf9fe-295c-476b-a98d-7449ac7c9f4a" alt="MFL logo" width="220"/>
 </p>
+
 
 
