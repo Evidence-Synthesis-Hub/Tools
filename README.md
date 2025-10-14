@@ -78,21 +78,13 @@ You can:
 
 ## Contact
 
-* **Project leads:** Lolita Muller, Todd Rosenstock, Natalia Estrada Carmona, Andrea Sanchez, Sarah Jones
+* **Project lead:** Lolita Muller
 * **Institutions:** Alliance for Bioversity
 * **Email:** `m.lolita@cgiar.org`
 
 ---
 
-## Citation
 
-```
-Lolita M., Todd R., Natalia E.C, Andrea S., Sarah J. et al. (2025).  
-**Agricultural Evidence Synthesis Hub: An AI-powered workflow for literature reviews in agriculture.**  
-Alliance of Bioversity International and CIAT.  
-GitHub: https://github.com/Evidence-Synthesis-Hub/Agricultural-Evidence-Synthesis-Hub  
-https://doi.org/10.5281/zenodo.XXXXXXX  
-```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc3db356-e5c2-4936-ab46-390591983217" alt="Alliance Logo Refresh-EN white" width="280" />
   &nbsp;&nbsp;&nbsp;
