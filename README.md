@@ -92,6 +92,12 @@ Agricultural Evidence Synthesis Hub (Version 1.0.0).
 Alliance of Bioversity International and CIAT, CIRAD. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ```
+
+## Acknowledgment
+
+This work is a collaboration across CGIAR centers and partners, developed as part of the Multifunctional Landscapes Science Program.
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1035f70b-9159-4e1c-ad0a-c8135fecd898" alt="CIRAD logo" width="250"/>
   &nbsp;&nbsp;&nbsp;
