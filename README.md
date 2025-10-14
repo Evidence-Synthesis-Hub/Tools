@@ -38,11 +38,11 @@ Each tool has its own page :
 
 - **🔗 Abstrackr vignette (Manual Screening Web Page)**: [View Report](https://Evidence-Synthesis-Hub.github.io/Agricultural-Evidence-Synthesis-Hub/docs/Abstrackr.html)
 - **🔗 Colandr vignette (Manual Screening Web Page)**: [View Report](https://Evidence-Synthesis-Hub.github.io/Agricultural-Evidence-Synthesis-Hub/docs/Colandr.html)
-- **🔗 AIscreenR vignette (Screen with AI)**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/Agricultural-Evidence-Synthesis-Hub/AIscreenR.html)
+- **🔗 AIscreenR vignette (Screen with AI)**: [View Report](https://Evidence-Synthesis-Hub.github.io//Agricultural-Evidence-Synthesis-Hub/docs/AIscreenR.html)
 
 *Tagging*
 
-- **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Tools/Agricultural-Evidence-Synthesis-Hub/gpt_tagging.html)
+- **🔗 GPT Tagging vignette**: [View Report](https://Evidence-Synthesis-Hub.github.io/Agricultural-Evidence-Synthesis-Hub/docs/gpt_tagging.html)
 
 ---
 
