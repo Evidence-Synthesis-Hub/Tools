@@ -14,7 +14,7 @@ There are many tools available for conducting evidence synthesis in agriculture�
 
 - Showing how each tool works, with examples from agricultural research and practice.
 
-- Explaining what each tool is good for—and where it struggles—when applied to farming systems, crop and livestock studies, or rural livelihoods.
+- Explaining what each tool is good for, and where it struggles, when applied to farming systems, crop and livestock studies, or rural livelihoods.
 
 - Providing shared code, templates, and training materials tailored to agricultural evidence synthesis.
 
