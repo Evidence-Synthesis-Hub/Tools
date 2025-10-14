@@ -78,8 +78,8 @@ You can:
 
 ## Contact
 
-* **Project leads:** Lolita, Todd, Natalia, Andrea, Sarah
-* **Institutions:** Alliance for Bioversity, WorldFish & CIRAD
+* **Project leads:** Lolita Muller, Todd Rosenstock, Natalia Estrada Carmona, Andrea Sanchez, Sarah Jones
+* **Institutions:** Alliance for Bioversity
 * **Email:** `m.lolita@cgiar.org`
 
 ---
